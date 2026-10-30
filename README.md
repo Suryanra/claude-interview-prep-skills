@@ -160,7 +160,7 @@ Ideas: a `mock-interview:` skill, company-specific question banks, more source t
 
 ## 📄 License
 
-MIT License. Free to use, modify and share. Add a `LICENSE` file to your repo if you want this to be official.
+MIT License. Free to use, modify and share.
 
 ---
 
